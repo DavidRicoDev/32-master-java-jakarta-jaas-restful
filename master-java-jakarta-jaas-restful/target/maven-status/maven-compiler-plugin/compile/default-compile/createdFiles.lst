@@ -1,0 +1,6 @@
+es\davidrico\jakarta\jaas\restful\repositorios\CursoRepositoryImpl.class
+es\davidrico\jakarta\jaas\restful\ProducerEntityManager.class
+es\davidrico\jakarta\jaas\restful\repositorios\CursoRepository.class
+es\davidrico\jakarta\jaas\restful\modelos\Curso.class
+es\davidrico\jakarta\jaas\restful\servicios\CursoServicioWsImpl.class
+es\davidrico\jakarta\jaas\restful\servicios\CursoServicioWs.class
